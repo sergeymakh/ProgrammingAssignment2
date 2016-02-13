@@ -2,6 +2,7 @@
 ## functions do
 
 ## !! Usage example
+
 #> x <- matrix(1:4, 2, 2)
 #> ttt <- makeCacheMatrix(x)
 #> cacheSolve(ttt)
@@ -20,6 +21,7 @@
 #  [,1]
 #[1,]   NA
 
+##
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
